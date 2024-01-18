@@ -1,0 +1,23 @@
+C:\Discord Bot\Discord Bot\Discord Bot\bin\Debug\netcoreapp2.1\Discord Bot.deps.json
+C:\Discord Bot\Discord Bot\Discord Bot\bin\Debug\netcoreapp2.1\Discord Bot.runtimeconfig.json
+C:\Discord Bot\Discord Bot\Discord Bot\bin\Debug\netcoreapp2.1\Discord Bot.runtimeconfig.dev.json
+C:\Discord Bot\Discord Bot\Discord Bot\bin\Debug\netcoreapp2.1\Discord Bot.dll
+C:\Discord Bot\Discord Bot\Discord Bot\obj\Debug\netcoreapp2.1\Discord Bot.csprojAssemblyReference.cache
+C:\Discord Bot\Discord Bot\Discord Bot\obj\Debug\netcoreapp2.1\Discord Bot.csproj.CoreCompileInputs.cache
+C:\Discord Bot\Discord Bot\Discord Bot\obj\Debug\netcoreapp2.1\Discord Bot.AssemblyInfoInputs.cache
+C:\Discord Bot\Discord Bot\Discord Bot\obj\Debug\netcoreapp2.1\Discord Bot.AssemblyInfo.cs
+C:\Discord Bot\Discord Bot\Discord Bot\bin\Debug\netcoreapp2.1\Discord Bot.pdb
+C:\Discord Bot\Discord Bot\Discord Bot\obj\Debug\netcoreapp2.1\Discord Bot.dll
+C:\Discord Bot\Discord Bot\Discord Bot\obj\Debug\netcoreapp2.1\Discord Bot.pdb
+C:\Discord Bot-Master\Discord Bot\Discord Bot\Discord Bot\obj\Debug\netcoreapp2.1\Discord Bot.csprojAssemblyReference.cache
+C:\Discord Bot-Master\Discord Bot\Discord Bot\Discord Bot\obj\Debug\netcoreapp2.1\Discord Bot.csproj.CoreCompileInputs.cache
+C:\Discord Bot-Master\Discord Bot\Discord Bot\Discord Bot\obj\Debug\netcoreapp2.1\Discord Bot.AssemblyInfoInputs.cache
+C:\Discord Bot-Master\Discord Bot\Discord Bot\Discord Bot\obj\Debug\netcoreapp2.1\Discord Bot.AssemblyInfo.cs
+C:\Discord Bot-Master\Discord Bot\Discord Bot\Discord Bot\bin\Debug\netcoreapp2.1\Discord Bot.deps.json
+C:\Discord Bot-Master\Discord Bot\Discord Bot\Discord Bot\bin\Debug\netcoreapp2.1\Discord Bot.runtimeconfig.json
+C:\Discord Bot-Master\Discord Bot\Discord Bot\Discord Bot\bin\Debug\netcoreapp2.1\Discord Bot.runtimeconfig.dev.json
+C:\Discord Bot-Master\Discord Bot\Discord Bot\Discord Bot\bin\Debug\netcoreapp2.1\Discord Bot.dll
+C:\Discord Bot-Master\Discord Bot\Discord Bot\Discord Bot\bin\Debug\netcoreapp2.1\Discord Bot.pdb
+C:\Discord Bot-Master\Discord Bot\Discord Bot\Discord Bot\obj\Debug\netcoreapp2.1\Discord Bot.dll
+C:\Discord Bot-Master\Discord Bot\Discord Bot\Discord Bot\obj\Debug\netcoreapp2.1\Discord Bot.pdb
+C:\Discord Bot-Master\Discord Bot\Discord Bot\Discord Bot\obj\Debug\netcoreapp2.1\Discord Bot.genruntimeconfig.cache
